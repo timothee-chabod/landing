@@ -1,0 +1,32 @@
+.btn-blue{
+	background-color:#9DAB85;
+	padding:15px 20px;
+	border-radius:4px;
+	color:white;
+	font-weight: bold;
+	font-family: 'Mulish', sans-serif;
+}
+
+.btn-blue:hover{
+	background-color:white;
+	color:#9DAB85;
+}
+
+.list-inline{
+	list-style:none;
+	padding-left:0px;
+}
+
+.list-inline li{
+	display:inline;
+	padding:10px;
+}
+
+.list-inline i{
+	font-size: 50px;
+	color:#9DAB85;
+}
+
+.list-inline i:hover{
+	color:grey;
+}
